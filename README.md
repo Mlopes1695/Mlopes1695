@@ -1,16 +1,16 @@
 ## Hi there 👋
+## I'm Milanca | Business Analytics Professional 
 
-<!--
-**Mlopes1695/Mlopes1695** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Driven and results oriented professinal with 4+ years experience in operational and data analysis within the financial and government sector. 
 
-Here are some ideas to get you started:
+Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL
+
+- Tableau
+
+- Excel
+
+- Python
+
+- Power BI
